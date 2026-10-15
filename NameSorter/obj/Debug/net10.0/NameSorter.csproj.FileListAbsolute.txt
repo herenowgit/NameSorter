@@ -1,0 +1,14 @@
+D:\MyProjects\Interview\NameSorter\NameSorter\bin\Debug\net10.0\NameSorter.exe
+D:\MyProjects\Interview\NameSorter\NameSorter\bin\Debug\net10.0\NameSorter.deps.json
+D:\MyProjects\Interview\NameSorter\NameSorter\bin\Debug\net10.0\NameSorter.runtimeconfig.json
+D:\MyProjects\Interview\NameSorter\NameSorter\bin\Debug\net10.0\NameSorter.dll
+D:\MyProjects\Interview\NameSorter\NameSorter\bin\Debug\net10.0\NameSorter.pdb
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.AssemblyInfoInputs.cache
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.AssemblyInfo.cs
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.csproj.CoreCompileInputs.cache
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.dll
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\refint\NameSorter.dll
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.pdb
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\NameSorter.genruntimeconfig.cache
+D:\MyProjects\Interview\NameSorter\NameSorter\obj\Debug\net10.0\ref\NameSorter.dll
